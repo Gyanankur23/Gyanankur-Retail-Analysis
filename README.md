@@ -1,8 +1,9 @@
-###Gyanankur Retail Analysis 🚀
+### Gyanankur Retail Analysis 🚀
 
 Welcome to the Gyanankur Retail Analysis repository! This project delivers a comprehensive multi-tool analysis of retail data by combining Python-based data processing, interactive dashboards, and SQL-driven data exploration. Designed to reveal detailed insights into customer behavior, sales patterns, and profitability, this repository serves as an exemplary demonstration of modern data analytics and visualization techniques. 📊
 
-###Table of Contents
+### Table of Contents
+
 - Overview
 - Project Structure
 - Python Analysis & Dashboard
@@ -14,10 +15,10 @@ Welcome to the Gyanankur Retail Analysis repository! This project delivers a com
 - License
 - Contact
 
-###Overview ✨
+### Overview ✨
 This repository utilizes real-world retail data to generate actionable insights into customer demographics, spending habits, and regional sales trends. The project leverages powerful such as pandas, NumPy, seaborn, matplotlib, Plotly, and Dash to clean, analyze, and visualize data. Additionally, SQL scripts are used to aggregate and examine key business metrics, ensuring that the insights are accessible in both static and interactive formats.
 
-Project Structure 🗂️
+### Project Structure 🗂️
 The repository is organized as follows:
 
 `
@@ -35,7 +36,8 @@ Gyanankur-Retail-Analysis/
     └── tables/                                  # Contains supplemental SQL table configurations (if available)
 `
 
-Python Analysis & Dashboard 🐍
+### Python Analysis & Dashboard 🐍
+
 The core analysis is handled by Retail_Analysis.py inside the python folder. Key functionalities include:
 
 - Data Loading & Cleaning  
@@ -59,7 +61,7 @@ The core analysis is handled by Retail_Analysis.py inside the python folder. Key
   - Embeds the static violin plot additional perspective.
   - Run locally to interact with the dashboard in real time.
 
-SQL Analysis 🗄️
+### SQL Analysis 🗄️
 Within the sql folder, you'll find scripts to further explore retail performance metrics:
 
 - SQL Script (schema/retails.sql)  
@@ -73,7 +75,8 @@ Within the sql folder, you'll find scripts to further explore retail performance
 - Outputs  
   - Results from the SQL execution are summarized in sql/output/retail_output.md along with a supplemental image for clarity.
 
-Visualizations 🎨
+### Visualizations 🎨
+
 The project produces a rich variety of visualizations:
 - Violin Plot: Displays gender-based spending patterns across customer segments.
 - Choropleth Map: Visualizes regional total sales.
@@ -84,7 +87,7 @@ The project produces a rich variety of visualizations:
 
 These images are available in the python/outputs/ folder and are integrated into the live dashboard for an interactive exploration.
 
-Requirements 🛠️
+### Requirements 🛠️
 Install the required Python packages from the requirements.txt file located in the main repository folder. To set up your environment, run:
 
 `bash
@@ -93,7 +96,7 @@ pip install -r requirements.txt
 
 This file lists all necessary dependencies, including pandas, NumPy, seaborn, matplotlib, Plotly, and Dash.
 
-Usage 💻
+### Usage 💻
 
 Running the Python Analysis & Dashboard
 1. Navigate to the Python folder:
@@ -108,7 +111,8 @@ Running the Python Analysis & Dashboard
    - The script will launch a Dash server.
    - Open your browser and go to http://127.0.0.1:8050 to interact with the dashboard.
 
-Running the SQL Analysis
+**Running the SQL Analysis**
+
 1. Load the SQL Script:
    - Open sql/schema/retails.sql in your preferred SQL environment.
 2. Execute the Script:
@@ -116,23 +120,23 @@ Running the SQL Analysis
 3. Review the Results:
    - Results are documented in sql/output/retail_output.md with relevant charts and outputs.
 
-Documentation & Reports
+### Documentation & Reports
 - PDF Reports:  
   - Gyanankur Retail Insights Dashboard.pdf
   - Retail Data Visualization.pdf
 
 These documents provide comprehensive details on the dashboard and data visualization process.
 
-Outputs 📁
+### Outputs 📁
 The repository includes multiple outputs:
 - Python Visualizations: Located in python/outputs/ (7 images) generated during the analysis.
 - SQL Analysis Outcomes: Found in sql/output/ (includes a markdown summary and an image).
 - Documentation PDFs: Located in the main folder summarizing the dashboard insights and visualizations.
 
-License 📜
+### License 📜
 This project is licensed under the Gyanankur23 License. By using this repository, you agree to the terms specified in the license.
 
-Contact 💌
+### Contact 💌
 Developed by Gyanankur. For questions, feedback, or collaboration, please open an issue on GitHub or reach out directly via GitHub.
 
 ---
