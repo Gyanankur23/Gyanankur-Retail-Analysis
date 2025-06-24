@@ -13,6 +13,7 @@ A cross-functional data analytics dashboard developed using **Python**, **JavaSc
 |     ├── profit_summary.csv
 ├── power bi
 |     ├── IMG_20250623_232940-Picsart-AiImageEnhancer.jpg
+|     |——— Retail_Analysis.pbix
 ├── python
 |     ├── Retail_Analysis.py
 |     ├── outputs
@@ -164,7 +165,7 @@ ORDER BY
 # 📸 Visual Gallery
 
 ## 🧭 Power BI Dashboard
-
+![Power BI Dashboard](powerbi/Retail_Analysis.pbix)
 ![Power BI Dashboard](power%20bi/IMG_20250623_232940-Picsart-AiImageEnhancer.jpg)
 
 # 📘 Reports & Dashboards
@@ -195,6 +196,10 @@ ORDER BY
 <img src="reports/images/Retail Insights Dashboard_page-0015.jpg" alt="Page 15" width="800"/>
 <img src="reports/images/Retail Insights Dashboard_page-0016.jpg" alt="Page 16" width="800"/>
 <img src="reports/images/Retail Insights Dashboard_page-0017.jpg" alt="Page 17" width="800"/>
+
+# 📍Live Dashboard Link
+
+https://app.powerbi.com/groups/me/reports/fda28044-0e43-426a-be20-603375ed64d9/8540b98f8e14c95b704e?experience=power-bi
 
 # 👤 Author & License
 
