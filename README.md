@@ -6,7 +6,37 @@ A cross-functional data analytics dashboard developed using **Python**, **JavaSc
 
 ## 📁 Project Structure
 
-├── Gyanankur_Retail.csv ├── README.md ├── Retail Profit Margin Analyzer │   ├── calculateProfitMargin.js │   ├── profit_summary.csv ├── power bi │   ├── IMG20250623232940-Picsart-AiImageEnhancer.jpg ├── python │   ├── Retail_Analysis.py │   ├── outputs │   │   ├── IMG20250623065733.jpg │   │   ├── IMG20250623065749.jpg │   │   ├── IMG20250623065809.jpg │   │   ├── IMG20250623065837.jpg │   │   ├── IMG20250623065912.jpg │   │   ├── IMG20250623065928.jpg │   │   ├── IMG20250623065949.jpg ├── reports │   ├── Retail Data Visualization.pdf │   ├── Retail Insights Dashboard.pdf ├── sql │   ├── output │   │   ├── IMG20250622230727.png │   │   ├── retail_output.md │   ├── schema │   │   ├── IMG20250622230709.png │   │   ├── retail.sql │   ├── tables │   │   ├── IMG20250622230744.png │   │   ├── show_tables.sql
+├── Gyanankur_Retail.csv
+├── README.md 
+├── Retail Profit Margin Analyzer │  
+├── calculateProfitMargin.js │   
+├── profit_summary.csv 
+├── power bi │   
+├── IMG20250623232940-Picsart-AiImageEnhancer.jpg
+├── python │  
+├── Retail_Analysis.py 
+│   ├── outputs 
+│   │   ├── IMG20250623065733.jpg 
+│   │   ├── IMG20250623065749.jpg
+│   │   ├── IMG20250623065809.jpg 
+│   │   ├── IMG20250623065837.jpg
+│   │   ├── IMG20250623065912.jpg 
+│   │   ├── IMG20250623065928.jpg
+│   │   ├── IMG20250623065949.jpg 
+├── reports │   
+├── Retail Data Visualization.pdf 
+│   
+├── Retail Insights Dashboard.pdf
+├── sql 
+│   ├── output 
+│   │   ├── IMG20250622230727.png 
+│   │   ├── retail_output.md │   
+├── schema 
+│   │   ├── IMG20250622230709.png
+│   │   ├── retail.sql 
+│   ├── tables 
+│   │   ├── IMG20250622230744.png
+│   │   ├── show_tables.sql
 
 ---
 
