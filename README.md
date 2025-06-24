@@ -136,15 +136,15 @@ ORDER BY
 
 ## SQL Visuals 
 
-![SQL Schema View](sql/schema/IMG20250622230709.png)
-![SQL Query Output](sql/output/IMG20250622230727.png)
-![SQL Table Structure](sql/tables/IMG20250622230744.png)
+![SQL Schema View](sql/schema/IMG_2025062223_0709.png)
+![SQL Query Output](sql/output/IMG_2025062223_0727.png)
+![SQL Table Structure](sql/tables/IMG_2025062223_0744.png)
 
 📸 Visual Gallery
 
 🧭 Power BI Dashboard
 
-![Power BI Dashboard](power%20bi/IMG20250623232940-Picsart-AiImageEnhancer.jpg)
+![Power BI Dashboard](power%20bi/IMG_20250623232_940-Picsart-AiImageEnhancer.jpg)
 
 📘 Reports & Dashboards
 
