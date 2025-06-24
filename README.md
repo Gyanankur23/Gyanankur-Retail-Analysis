@@ -71,13 +71,13 @@ app.layout = html.Div([
 
 ## Python Visualizations
 
-![Python Output 1](python/outputs/IMG20250623065733.jpg)
-![Python Output 2](python/outputs/IMG20250623065749.jpg)
-![Python Output 3](python/outputs/IMG20250623065809.jpg)
-![Python Output 4](python/outputs/IMG20250623065837.jpg)
-![Python Output 5](python/outputs/IMG20250623065912.jpg)
-![Python Output 6](python/outputs/IMG20250623065928.jpg)
-![Python Output 7](python/outputs/IMG20250623065949.jpg)
+![Python Output 1](python/outputs/IMG_20250623_065733.jpg)
+![Python Output 2](python/outputs/IMG_20250623_065749.jpg)
+![Python Output 3](python/outputs/IMG_20250623_065809.jpg)
+![Python Output 4](python/outputs/IMG_20250623_065837.jpg)
+![Python Output 5](python/outputs/IMG_20250623_065912.jpg)
+![Python Output 6](python/outputs/IMG_20250623_065928.jpg)
+![Python Output 7](python/outputs/IMG_20250623_065949.jpg)
 
 🧮 JavaScript: Profit Margin Calculator
 
