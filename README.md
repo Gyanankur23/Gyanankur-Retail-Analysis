@@ -1,4 +1,4 @@
-# 📊 Retail Analysis Project
+# 📊 Gyanankur Retail Analysis Project
 
 A cross-functional data analytics dashboard developed using **Python**, **JavaScript**, **SQL**, and **Power BI**, designed to evaluate retail metrics like customer trends, spending behavior, and profit margins across global segments and product categories.
 
@@ -100,7 +100,7 @@ app.layout = html.Div([
 ![Python Output 6](python/outputs/IMG_20250623_065928.jpg)
 ![Python Output 7](python/outputs/IMG_20250623_065949.jpg)
 
-🧮 JavaScript: Profit Margin Calculator
+# 🧮 JavaScript: Profit Margin Calculator
 
 ```javascript
 
@@ -121,7 +121,7 @@ fs.createReadStream('Gyanankur_Retail.csv')
   });
 
 ```
-🔍 Sample Output (from profit_summary.csv)
+# 🔍 Sample Output (from profit_summary.csv)
 
 ```csv
 CategorySubcategory	AvgProfit_Margin	Entries
@@ -136,7 +136,7 @@ Unknown Category > Jacket	90.00%	1
 
 ---
 
-📂 SQL: Profit Margin Queries
+# 📂 SQL: Profit Margin Queries
 
 ```sql
 
@@ -161,40 +161,38 @@ ORDER BY
 ![SQL Query Output](sql/output/IMG_20250622_230727.png)
 ![SQL Table Structure](sql/tables/IMG_20250622_230744.png)
 
-📸 Visual Gallery
+# 📸 Visual Gallery
 
-🧭 Power BI Dashboard
+## 🧭 Power BI Dashboard
 
 ![Power BI Dashboard](power%20bi/IMG_20250623_232940-Picsart-AiImageEnhancer.jpg)
 
-📘 Reports & Dashboards
+# 📘 Reports & Dashboards
 
-📘 Retail Data Visualization (PDF)
+## 📘 Retail Data Visualization (PDF)
 
 ![copilot_image_1750616511782](reports/images/copilot_image_1750616511782.jpeg)
 ![copilot_image_1750616513476](reports/images/copilot_image_1750616513476.jpeg)
 ![image_1750616737013](reports/images/image_1750616737013.jpeg)
 
-📗 Retail Insights Dashboard (PDF)
+## 📗 Retail Insights Dashboard (PDF)
 
-
-![Page 2](reports/images/Retail_Insights_Dashboard_page-0002.jpg)
-![Page 3](reports/images/Retail_Insights_Dashboard_page-0003.jpg)
-![Page 4](reports/images/Retail_Insights_Dashboard_page-0004.jpg)
-![Page 5](reports/images/Retail_Insights_Dashboard_page-0005.jpg)
-![Page 6](reports/images/Retail_Insights_Dashboard_page-0006.jpg)
-![Page 7](reports/images/Retail_Insights_Dashboard_page-0007.jpg)
-![Page 8](reports/images/Retail_Insights_Dashboard_page-0008.jpg)
-![Page 9](reports/images/Retail_Insights_Dashboard_page-0009.jpg)
-![Page 10](reports/images/Retail_Insights_Dashboard_page-0010.jpg)
-![Page 11](reports/images/Retail_Insights_Dashboard_page-0011.jpg)
-![Page 12](reports/images/Retail_Insights_Dashboard_page-0012.jpg)
-![Page 13](reports/images/Retail_Insights_Dashboard_page-0013.jpg)
-![Page 14](reports/images/Retail_Insights_Dashboard_page-0014.jpg)
-![Page 15](reports/images/Retail_Insights_Dashboard_page-0015.jpg)
-![Page 16](reports/images/Retail_Insights_Dashboard_page-0016.jpg)
-![Page 17](reports/images/Retail_Insights_Dashboard_page-0017.jpg)
-
+![Page 2](reports/images/Retail Insights_Dashboard_page-0002.jpg)
+![Page 3](reports/images/Retail Insights_Dashboard_page-0003.jpg)
+![Page 4](reports/images/Retail Insights_Dashboard_page-0004.jpg)
+![Page 5](reports/images/Retail Insights_Dashboard_page-0005.jpg)
+![Page 6](reports/images/Retail Insights_Dashboard_page-0006.jpg)
+![Page 7](reports/images/Retail Insights_Dashboard_page-0007.jpg)
+![Page 8](reports/images/Retail Insights_Dashboard_page-0008.jpg)
+![Page 9](reports/images/Retail Insights_Dashboard_page-0009.jpg)
+![Page 10](reports/images/Retail Insights_Dashboard_page-0010.jpg)
+![Page 11](reports/images/Retail Insights_Dashboard_page-0011.jpg)
+![Page 12](reports/images/Retail Insights_Dashboard_page-0012.jpg)
+![Page 13](reports/images/Retail Insights_Dashboard_page-0013.jpg)
+![Page 14](reports/images/Retail Insights_Dashboard_page-0014.jpg)
+![Page 15](reports/images/Retail Insights_Dashboard_page-0015.jpg)
+![Page 16](reports/images/Retail Insights_Dashboard_page-0016.jpg)
+![Page 17](reports/images/Retail Insights_Dashboard_page-0017.jpg)
 
 # 👤 Author & License
 
