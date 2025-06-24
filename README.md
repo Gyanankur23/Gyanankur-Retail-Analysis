@@ -179,22 +179,22 @@ ORDER BY
 
 <h3>Retail Insights Dashboard (Pages from PDF)</h3>
 
-<img src="reports/images/Retail Insights_Dashboard_page-0002.jpg" alt="Page 2" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0003.jpg" alt="Page 3" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0004.jpg" alt="Page 4" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0005.jpg" alt="Page 5" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0006.jpg" alt="Page 6" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0007.jpg" alt="Page 7" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0008.jpg" alt="Page 8" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0009.jpg" alt="Page 9" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0010.jpg" alt="Page 10" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0011.jpg" alt="Page 11" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0012.jpg" alt="Page 12" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0013.jpg" alt="Page 13" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0014.jpg" alt="Page 14" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0015.jpg" alt="Page 15" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0016.jpg" alt="Page 16" width="800"/>
-<img src="reports/images/Retail Insights_Dashboard_page-0017.jpg" alt="Page 17" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0002.jpg" alt="Page 2" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0003.jpg" alt="Page 3" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0004.jpg" alt="Page 4" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0005.jpg" alt="Page 5" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0006.jpg" alt="Page 6" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0007.jpg" alt="Page 7" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0008.jpg" alt="Page 8" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0009.jpg" alt="Page 9" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0010.jpg" alt="Page 10" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0011.jpg" alt="Page 11" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0012.jpg" alt="Page 12" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0013.jpg" alt="Page 13" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0014.jpg" alt="Page 14" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0015.jpg" alt="Page 15" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0016.jpg" alt="Page 16" width="800"/>
+<img src="reports/images/Retail Insights Dashboard_page-0017.jpg" alt="Page 17" width="800"/>
 
 # 👤 Author & License
 
