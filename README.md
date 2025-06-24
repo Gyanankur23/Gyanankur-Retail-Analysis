@@ -131,6 +131,117 @@ Table Structure
 
 ---
 
+Here's a clear and organized list of output images and files that are visually shown (or meant to be shown) in your README.md, broken down snippet-wise by language:
+
+
+---
+
+🐍 Python: Output List from Retail_Analysis.py
+
+Markdown Code Snippet Block:
+
+df = pd.read_csv('Gyanankur_Retail.csv')
+...
+app = dash.Dash(__name__)
+
+Output Images Rendered After Python Snippet:
+
+Index	File Path	Description
+
+1️⃣	python/outputs/IMG20250623065733.jpg	Choropleth Map / Visual 1
+2️⃣	python/outputs/IMG20250623065749.jpg	Visual 2 (possibly age group distribution)
+3️⃣	python/outputs/IMG20250623065809.jpg	Visual 3
+4️⃣	python/outputs/IMG20250623065837.jpg	Visual 4
+5️⃣	python/outputs/IMG20250623065912.jpg	Visual 5
+6️⃣	python/outputs/IMG20250623065928.jpg	Visual 6
+7️⃣	python/outputs/IMG20250623065949.jpg	Visual 7
+
+
+
+---
+
+🧮 JavaScript: Output from calculateProfitMargin.js
+
+Markdown Code Snippet Block:
+
+fs.createReadStream('Gyanankur_Retail.csv')
+  .pipe(csv())
+  ...
+  .on('end', () => {
+    fs.writeFile('profit_summary.csv', ...);
+  });
+
+Output Table Rendered in Markdown:
+
+CategorySubcategory	AvgProfit_Margin	Entries
+
+Clothing > Shorts	69.96%	505
+Electronics > Tablet	68.88%	1041
+Home Decor > Tools	71.51%	491
+Grocery > Juice	69.23%	1014
+Unknown Category > Jacket	90.00%	1
+
+
+Output File (not an image, but mentioned):
+
+📄 Retail Profit Margin Analyzer/profit_summary.csv
+
+
+
+---
+
+📂 SQL: Output from Queries in retail.sql
+
+Markdown Code Snippet Block:
+
+SELECT 
+    Category,
+    SUM(Sales) AS Category_Sales,
+    ...
+
+Output Images Rendered After SQL Snippet:
+
+Index	File Path	Description
+
+🧬	sql/schema/IMG20250622230709.png	Database Schema View
+📊	sql/output/IMG20250622230727.png	SQL Query Result
+📋	sql/tables/IMG20250622230744.png	Table Structure View
+
+
+
+---
+
+📊 Power BI Dashboard
+
+Markdown Section:
+
+### 🧭 Power BI Dashboard
+
+Output Image:
+
+File Path	Description
+
+power bi/IMG20250623232940-Picsart-AiImageEnhancer.jpg	Final Power BI Dashboard Visual
+
+
+
+---
+
+📘 PDF Reports (Linked)
+
+File Path	Document Title
+
+reports/Retail Data Visualization.pdf	📘 Retail Data Visualization
+reports/Retail Insights Dashboard.pdf	📗 Retail Insights Dashboard
+
+
+
+---
+
+Would you like me to generate a collapsible Table of Contents or auto-thumbnail version too?
+
+
+
 👤 Author & License
 
 GitHub: @Gyanankur23
