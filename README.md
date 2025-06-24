@@ -171,13 +171,31 @@ ORDER BY
 
 📘 Retail Data Visualization (PDF)
 
+![copilot_image_1750616511782](reports/images/copilot_image_1750616511782.jpeg)
+![copilot_image_1750616513476](reports/images/copilot_image_1750616513476.jpeg)
+![image_1750616737013](reports/images/image_1750616737013.jpeg)
+
 📗 Retail Insights Dashboard (PDF)
 
+![Retail Insights Dashboard page 2](reports/images/Retail_Insights_Dashboard_page-0002.jpg)
+![Retail Insights Dashboard page 3](reports/images/Retail_Insights_Dashboard_page-0003.jpg)
+![Retail Insights Dashboard page 4](reports/images/Retail_Insights_Dashboard_page-0004.jpg)
+![Retail Insights Dashboard page 5](reports/images/Retail_Insights_Dashboard_page-0005.jpg)
+![Retail Insights Dashboard page 6](reports/images/Retail_Insights_Dashboard_page-0006.jpg)
+![Retail Insights Dashboard page 7](reports/images/Retail_Insights_Dashboard_page-0007.jpg)
+![Retail Insights Dashboard page 8](reports/images/Retail_Insights_Dashboard_page-0008.jpg)
+![Retail Insights Dashboard page 9](reports/images/Retail_Insights_Dashboard_page-0009.jpg)
+![Retail Insights Dashboard page 10](reports/images/Retail_Insights_Dashboard_page-0010.jpg)
+![Retail Insights Dashboard page 11](reports/images/Retail_Insights_Dashboard_page-0011.jpg)
+![Retail Insights Dashboard page 12](reports/images/Retail_Insights_Dashboard_page-0012.jpg)
+![Retail Insights Dashboard page 13](reports/images/Retail_Insights_Dashboard_page-0013.jpg)
+![Retail Insights Dashboard page 14](reports/images/Retail_Insights_Dashboard_page-0014.jpg)
+![Retail Insights Dashboard page 15](reports/images/Retail_Insights_Dashboard_page-0015.jpg)
+![Retail Insights Dashboard page 16](reports/images/Retail_Insights_Dashboard_page-0016.jpg)
+![Retail Insights Dashboard page 17](reports/images/Retail_Insights_Dashboard_page-0017.jpg)
 
- Dashboard.pdf	📗 Retail Insights Dashboard
 
-
-👤 Author & License
+# 👤 Author & License
 
 GitHub: @Gyanankur23
 License: MIT License
@@ -185,6 +203,6 @@ License: MIT License
 
 ---
 
-🔖 Hashtags (Markdown Friendly)
+# 🔖 Hashtags (Markdown Friendly)
 
 #RetailAnalytics #PowerBI #DataScience #PythonDash #SQLAnalytics #ProfitMargin #BusinessIntelligence #JS #EDA #RetailDashboard #CustomerSegmentation #GyanankurBaruah
