@@ -165,7 +165,8 @@ ORDER BY
 # 📸 Visual Gallery
 
 ## 🧭 Power BI Dashboard
-![Power BI Dashboard](powerbi/Retail_Analysis.pbix)
+
+[Download Retail_Analysis.pbix](power%20bi/Retail_Analysis.pbix)
 ![Power BI Dashboard](power%20bi/IMG_20250623_232940-Picsart-AiImageEnhancer.jpg)
 
 # 📘 Reports & Dashboards
