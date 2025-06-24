@@ -7,36 +7,57 @@ A cross-functional data analytics dashboard developed using **Python**, **JavaSc
 ## 📁 Project Structure
 
 ├── Gyanankur_Retail.csv
-├── README.md 
-├── Retail Profit Margin Analyzer │  
-├── calculateProfitMargin.js │   
-├── profit_summary.csv 
-├── power bi │   
-├── IMG20250623232940-Picsart-AiImageEnhancer.jpg
-├── python │  
-├── Retail_Analysis.py 
-│   ├── outputs 
-│   │   ├── IMG20250623065733.jpg 
-│   │   ├── IMG20250623065749.jpg
-│   │   ├── IMG20250623065809.jpg 
-│   │   ├── IMG20250623065837.jpg
-│   │   ├── IMG20250623065912.jpg 
-│   │   ├── IMG20250623065928.jpg
-│   │   ├── IMG20250623065949.jpg 
-├── reports │   
-├── Retail Data Visualization.pdf 
-│   
-├── Retail Insights Dashboard.pdf
-├── sql 
-│   ├── output 
-│   │   ├── IMG20250622230727.png 
-│   │   ├── retail_output.md │   
-├── schema 
-│   │   ├── IMG20250622230709.png
-│   │   ├── retail.sql 
-│   ├── tables 
-│   │   ├── IMG20250622230744.png
-│   │   ├── show_tables.sql
+├── README.md
+├── Retail Profit Margin Analyzer
+|     ├── calculateProfitMargin.js
+|     ├── profit_summary.csv
+├── power bi
+|     ├── IMG_20250623_232940-Picsart-AiImageEnhancer.jpg
+├── python
+|     ├── Retail_Analysis.py
+|     ├── outputs
+|     |     ├── IMG_20250623_065733.jpg
+|     |     ├── IMG_20250623_065749.jpg
+|     |     ├── IMG_20250623_065809.jpg
+|     |     ├── IMG_20250623_065837.jpg
+|     |     ├── IMG_20250623_065912.jpg
+|     |     ├── IMG_20250623_065928.jpg
+|     |     ├── IMG_20250623_065949.jpg
+├── reports
+|     ├── Retail Data Visualization.pdf
+|     ├── Retail Insights Dashboard.pdf
+|     ├── images
+|     |     ├── !
+|     |     ├── Retail Insights Dashboard_page-0002.jpg
+|     |     ├── Retail Insights Dashboard_page-0003.jpg
+|     |     ├── Retail Insights Dashboard_page-0004.jpg
+|     |     ├── Retail Insights Dashboard_page-0005.jpg
+|     |     ├── Retail Insights Dashboard_page-0006.jpg
+|     |     ├── Retail Insights Dashboard_page-0007.jpg
+|     |     ├── Retail Insights Dashboard_page-0008.jpg
+|     |     ├── Retail Insights Dashboard_page-0009.jpg
+|     |     ├── Retail Insights Dashboard_page-0010.jpg
+|     |     ├── Retail Insights Dashboard_page-0011.jpg
+|     |     ├── Retail Insights Dashboard_page-0012.jpg
+|     |     ├── Retail Insights Dashboard_page-0013.jpg
+|     |     ├── Retail Insights Dashboard_page-0014.jpg
+|     |     ├── Retail Insights Dashboard_page-0015.jpg
+|     |     ├── Retail Insights Dashboard_page-0016.jpg
+|     |     ├── Retail Insights Dashboard_page-0017.jpg
+|     |     ├── copilot_image_1750616511782.jpeg
+|     |     ├── copilot_image_1750616513476.jpeg
+|     |     ├── image_1750616737013.jpeg
+├── sql
+|     ├── output
+|     |     ├── IMG_20250622_230727.png
+|     |     ├── retail_output.md
+|     ├── schema
+|     |     ├── IMG_20250622_230709.png
+|     |     ├── retail.sql
+|     ├── tables
+|     |     ├── IMG_20250622_230744.png
+|     |     ├── show_tables.sql
+
 
 ---
 
