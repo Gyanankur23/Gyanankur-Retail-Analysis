@@ -21,7 +21,7 @@ fs.createReadStream('Gyanankur_Retail.csv')
 
       categoryMargins[key].totalMargin += margin;
       categoryMargins[key].count += 1;
-    }
+    } 
   })
   .on('end', () => {
     const summary = Object.entries(categoryMargins).map(([key, data]) => ({
