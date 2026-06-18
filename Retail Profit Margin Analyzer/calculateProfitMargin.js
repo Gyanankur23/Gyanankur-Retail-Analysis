@@ -10,7 +10,7 @@ fs.createReadStream('Gyanankur_Retail.csv')
     const revenue = parseFloat(row.Total_Amount);
     const category = row.Product_Category || 'Unknown Category';
     const subcategory = row.Product_Type || 'Unknown Type';
-    const key = `${category} > ${subcategory}`;
+    const key = `${category} > ${subcategory}`; 
 
     if (!isNaN(cost) && !isNaN(revenue) && revenue !== 0) {
       const margin = ((revenue - cost) / revenue) * 100;
