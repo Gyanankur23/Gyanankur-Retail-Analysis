@@ -10,7 +10,7 @@ warnings.filterwarnings('ignore')
 
 # Load and clean data
 df = pd.read_csv('Gyanankur_Retail.csv')
-df.columns = df.columns.str.strip()
+df.columns = df.columns.str.strip() 
 
 expected_cols = ['Date', 'Time', 'Age', 'Gender', 'Customer_Segment', 'Income', 'Order_Status',
                  'Payment_Method', 'Ratings', 'Total_Amount', 'Total_Purchases', 'Country',
@@ -31,8 +31,9 @@ df['Income'] = df['Income'].str.strip()
 df['Order_Status'] = df['Order_Status'].str.strip()
 df['Payment_Method'] = df['Payment_Method'].str.strip()
 
+
 # Ensure numeric columns for plotting
-df['Ratings'] = pd.to_numeric(df['Ratings'], errors='coerce').fillna(0)
+df['Ratings'] =  pd.to_numeric(df['Ratings'], errors='coerce').fillna(0)
 df['Total_Amount'] = pd.to_numeric(df['Total_Amount'], errors='coerce').fillna(0)
 df['Total_Purchases'] = pd.to_numeric(df['Total_Purchases'], errors='coerce').fillna(0)
 df['Hour'] = df['Hour'].fillna(-1)
